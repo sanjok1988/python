@@ -37,10 +37,15 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+<<<<<<< HEAD
     'debug_toolbar',
     'posts',
     'home',
     'polls',
+=======
+    'posts',
+    'category'
+>>>>>>> a6ce8b22a1619803fdcae0bd19f5b0c38b57310e
 ]
 
 MIDDLEWARE = [
